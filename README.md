@@ -4,6 +4,9 @@ A Repo for our game-jam
 Contributors: 
 
 Main contributors: 
-Louis Holdsworth
-Dawid Gorski
+
+Louis Holdsworth (LouisH98)
+
+Dawid Gorski (Dav418)
+
 Abbie Morton
