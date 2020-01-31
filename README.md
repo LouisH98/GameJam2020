@@ -6,7 +6,7 @@ https://globalgamejam.org/faq
 
 Main contributors: 
 
-Louis Holdsworth (LouisH98)
+Louis Holdsworth (LouisH98) - Programmer
 
 Dawid Gorski (Dav418) - Programmer
 
