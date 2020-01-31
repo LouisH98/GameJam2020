@@ -8,6 +8,6 @@ Main contributors:
 
 Louis Holdsworth (LouisH98)
 
-Dawid Gorski (Dav418)
+Dawid Gorski (Dav418) - Programmer
 
-Abbie Morton
+Abbie Morton - Creative Input / Artist
