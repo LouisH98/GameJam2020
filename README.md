@@ -3,6 +3,7 @@ A Repo for our game-jam
 
 https://globalgamejam.org/faq
  
+See: [Global Game Jam website](https://globalgamejam.org/2020/games/untitled-zombie-game-2-5) for final game
 
 Main contributors: 
 
